@@ -10,5 +10,4 @@ for test01
 20:48  test04
 
 20:51  test05 b
-
-20:52  test06 l
+21:01  test08 lb
